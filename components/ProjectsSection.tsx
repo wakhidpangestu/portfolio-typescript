@@ -11,7 +11,7 @@ const projects = [
       "React Portfolio is a personal portfolio web app for a Front-End Developer ReactJS.",
     image: "/portfolio-github.png",
     github: "https://github.com/hiddev-id/react-portfolio/",
-    link: "https://wakhidpangestu.vercel.app/",
+    link: "https://wakhidpangestu.netlify.app/",
   },
 ]
 
