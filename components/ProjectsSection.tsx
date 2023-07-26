@@ -9,7 +9,7 @@ const projects = [
     name: "React Portfolio",
     description:
       "React Portfolio is a personal portfolio web app for a Front-End Developer ReactJS.",
-    image: "/portfolio-github.png",
+    image: "/portfolio-github.jpg",
     github: "https://github.com/hiddev-id/react-portfolio/",
     link: "https://wakhidpangestu.netlify.app/",
   },
